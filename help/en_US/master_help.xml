@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book [
+<!--Begin Entities-->
+<!ENTITY c_sub SYSTEM "file:///C:\Archivos de programa\scilab-5.0.3\modules\toolbox_skeleton\help\en_US\c_sub.xml">
+<!ENTITY c_sum SYSTEM "file:///C:\Archivos de programa\scilab-5.0.3\modules\toolbox_skeleton\help\en_US\c_sum.xml">
+<!ENTITY fortran_sum SYSTEM "file:///C:\Archivos de programa\scilab-5.0.3\modules\toolbox_skeleton\help\en_US\fortran_sum.xml">
+<!ENTITY scilab_sum SYSTEM "file:///C:\Archivos de programa\scilab-5.0.3\modules\toolbox_skeleton\help\en_US\scilab_sum.xml">
+<!--End Entities-->
+]>
+<book version="5.0-subset Scilab" xml:lang="en_US"
+      xmlns="http://docbook.org/ns/docbook"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:svg="http://www.w3.org/2000/svg"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:html="http://www.w3.org/1999/xhtml"
+      xmlns:db="http://docbook.org/ns/docbook">
+  <info>
+    <title>Toolbox Skeleton</title>
+  </info>
+<!--Begin Reference-->
+<reference xml:id='category_toolbox_skeleton'>
+<title>Toolbox Skeleton</title>
+&c_sub;
+&c_sum;
+&fortran_sum;
+&scilab_sum;
+</reference>
+  <!--End Reference-->
+</book>
